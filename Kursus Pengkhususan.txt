@@ -1,0 +1,45 @@
+Program = Kursus Pengkhususan, Course = Perawatan Renal/ Nefrologi, Sum of Intakes = 2157, Maximum Number of Intakes = 381, Minimum Number of Intakes = 331
+Program = Kursus Pengkhususan, Course = Kejururawatan Kesihatan Awam, Sum of Intakes = 1634, Maximum Number of Intakes = 326, Minimum Number of Intakes = 206
+Program = Kursus Pengkhususan, Course = Perawatan Pediatrik, Sum of Intakes = 1440, Maximum Number of Intakes = 283, Minimum Number of Intakes = 182
+Program = Kursus Pengkhususan, Course = Perawatan Ortopedik, Sum of Intakes = 1393, Maximum Number of Intakes = 249, Minimum Number of Intakes = 200
+Program = Kursus Pengkhususan, Course = Perawatan Neonat, Sum of Intakes = 1115, Maximum Number of Intakes = 237, Minimum Number of Intakes = 140
+Program = Kursus Pengkhususan, Course = Pengurusan Diabetis, Sum of Intakes = 1034, Maximum Number of Intakes = 233, Minimum Number of Intakes = 142
+Program = Kursus Pengkhususan, Course = Kawalan Infeksi, Sum of Intakes = 987, Maximum Number of Intakes = 176, Minimum Number of Intakes = 143
+Program = Kursus Pengkhususan, Course = Perawatan Oftalmik, Sum of Intakes = 370, Maximum Number of Intakes = 80, Minimum Number of Intakes = 47
+Program = Kursus Pengkhususan, Course = Penjagaan Kesihatan Primer, Sum of Intakes = 427, Maximum Number of Intakes = 109, Minimum Number of Intakes = 52
+Program = Kursus Pengkhususan, Course = Perawatan Perianestesia, Sum of Intakes = 773, Maximum Number of Intakes = 154, Minimum Number of Intakes = 104
+Program = Kursus Pengkhususan, Course = Pengurusan Makmal, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Perawatan Neurosains, Sum of Intakes = 284, Maximum Number of Intakes = 63, Minimum Number of Intakes = 32
+Program = Kursus Pengkhususan, Course = Perawatan Otorinolaringologi, Sum of Intakes = 262, Maximum Number of Intakes = 54, Minimum Number of Intakes = 30
+Program = Kursus Pengkhususan, Course = Perubatan Sukan, Sum of Intakes = 147, Maximum Number of Intakes = 50, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Gastrointestinal Endoscopy, Sum of Intakes = 446, Maximum Number of Intakes = 99, Minimum Number of Intakes = 51
+Program = Kursus Pengkhususan, Course = Penyiasatan & Pendakwaan Undang-Undang, Sum of Intakes = 80, Maximum Number of Intakes = 19, Minimum Number of Intakes = 10
+Program = Kursus Pengkhususan, Course = Perawatan Rehabilitasi, Sum of Intakes = 265, Maximum Number of Intakes = 52, Minimum Number of Intakes = 30
+Program = Kursus Pengkhususan, Course = Rawatan Ortodontik, Sum of Intakes = 77, Maximum Number of Intakes = 26, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Kesihatan Persekitaran, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Anaesthesia, Sum of Intakes = 57, Maximum Number of Intakes = 18, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Rawatan Peridontik, Sum of Intakes = 22, Maximum Number of Intakes = 22, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Kaunseling HIV/AIDS, Sum of Intakes = 322, Maximum Number of Intakes = 98, Minimum Number of Intakes = 14
+Program = Kursus Pengkhususan, Course = Pembedahan Mulut (Maksilofasial), Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Kesihatan & Keselamatan Pekerja, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Mikrobiologi Perubatan, Sum of Intakes = 20, Maximum Number of Intakes = 20, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Penjagaan Pergigian Pediatrik, Sum of Intakes = 25, Maximum Number of Intakes = 25, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Hemeostasis, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Sediaan Farmaseutikal Steril, Sum of Intakes = 81, Maximum Number of Intakes = 19, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Patologi Kimia, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Neurofisiologi Klinikal, Sum of Intakes = 10, Maximum Number of Intakes = 10, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Tomografi Berkomputer, Sum of Intakes = 79, Maximum Number of Intakes = 48, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Forensik, Sum of Intakes = 72, Maximum Number of Intakes = 18, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Parasitologi, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Muskulo - Skeletal, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Keselamatan & Kebersihan Makanan, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Prostesis Maksilofasial, Sum of Intakes = 16, Maximum Number of Intakes = 16, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Perancangan Terapi Pancaran, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Bioteknologi, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Cytogenetics, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Epidemiologi dan Kawalan Penyakit, Sum of Intakes = 18, Maximum Number of Intakes = 18, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Kardiopulmonari Fisioterapi, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Neurologi Fisioterapi, Sum of Intakes = 0, Maximum Number of Intakes = 0, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Penjagaan Dermatologi, Sum of Intakes = 59, Maximum Number of Intakes = 36, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Penjagaan Luka, Sum of Intakes = 30, Maximum Number of Intakes = 30, Minimum Number of Intakes = 0
+Program = Kursus Pengkhususan, Course = Penjagaan Reumatologi, Sum of Intakes = 14, Maximum Number of Intakes = 14, Minimum Number of Intakes = 0

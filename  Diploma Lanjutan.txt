@@ -1,0 +1,17 @@
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Kebidanan, Sum of Intakes = 6598, Maximum Number of Intakes = 1203, Minimum Number of Intakes = 962
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Penjagaan Rapi, Sum of Intakes = 771, Maximum Number of Intakes = 147, Minimum Number of Intakes = 113
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Perawatan Perioperatif, Sum of Intakes = 802, Maximum Number of Intakes = 160, Minimum Number of Intakes = 104
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Kesihatan Kardiovascular, Sum of Intakes = 719, Maximum Number of Intakes = 136, Minimum Number of Intakes = 107
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Perawatan Onkologi, Sum of Intakes = 260, Maximum Number of Intakes = 55, Minimum Number of Intakes = 0
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Perawatan Gerontologi, Sum of Intakes = 158, Maximum Number of Intakes = 57, Minimum Number of Intakes = 11
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Sitologi, Sum of Intakes = 58, Maximum Number of Intakes = 24, Minimum Number of Intakes = 0
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Transfusi Darah, Sum of Intakes = 38, Maximum Number of Intakes = 38, Minimum Number of Intakes = 0
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Histopatologi, Sum of Intakes = 14, Maximum Number of Intakes = 14, Minimum Number of Intakes = 0
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Pengimejan Perubatan (Payudara), Sum of Intakes = 50, Maximum Number of Intakes = 16, Minimum Number of Intakes = 0
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Haematologi, Sum of Intakes = 70, Maximum Number of Intakes = 27, Minimum Number of Intakes = 0
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Penjagaan Paliatif, Sum of Intakes = 108, Maximum Number of Intakes = 20, Minimum Number of Intakes = 17
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Perawatan Kesihatan Mental, Sum of Intakes = 482, Maximum Number of Intakes = 98, Minimum Number of Intakes = 61
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Penjagaan Kecemasan, Sum of Intakes = 2422, Maximum Number of Intakes = 535, Minimum Number of Intakes = 235
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Pengurusan Penjagaan Kesihatan, Sum of Intakes = 119, Maximum Number of Intakes = 39, Minimum Number of Intakes = 0
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Penjagaan Respiratori, Sum of Intakes = 59, Maximum Number of Intakes = 27, Minimum Number of Intakes = 0
+Program =  Diploma Lanjutan, Course = Diploma Lanjutan Rehabilitasi Neuro, Sum of Intakes = 30, Maximum Number of Intakes = 25, Minimum Number of Intakes = 0
